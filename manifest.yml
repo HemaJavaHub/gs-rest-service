@@ -4,3 +4,4 @@ applications:
     memory: 1024M
     instances: 1
     random-route: true
+    path: build/libs/gs-rest-service-0.1.0.jar
